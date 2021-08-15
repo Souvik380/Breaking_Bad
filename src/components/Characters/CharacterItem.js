@@ -1,8 +1,4 @@
 import React from 'react'
-import Temp from '../Temp'
-import CharacterDesc from './CharacterDesc'
-import App from '../../App'
-
  
 function CharacterItem({item}) {
     return (
